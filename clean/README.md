@@ -1,6 +1,6 @@
 # This is Xiaozhu's CleanTool !
 
-> 这是中文写,其他语言采用机器翻译！
+> 这是中文写的,其他语言将采用机器翻译！
 
 > This is written in Chinese. Other languages use machine translation!
 
@@ -30,7 +30,7 @@
 
 1.修复已知Bugs
 
-2.简化操作步骤，**部分文件需联网下载**
+2.简化操作步骤（傻瓜式操作），**部分文件需联网下载**
 
 3.移除部分指令
 
