@@ -1,7 +1,8 @@
 
 # 这是CleanTool的重要文件存放处（也就是联网下载的文件）
 
-
+>本介绍有中文和英文两种语言，英语为机器翻译，具体以中文为准！
+>This introduction has two languages, Chinese and English. English is machine translation, and Chinese is the standard!
 --------------------
 
 下载后有两个文件：
