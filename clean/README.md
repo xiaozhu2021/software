@@ -1,8 +1,7 @@
 # This is Xiaozhu's CleanTool !
 
-
-这是中文写的！
-
+> 这是中文写,其他语言采用机器翻译！
+> This is written in Chinese. Other languages use machine translation!
 
 ## 更新日志
 
