@@ -10,9 +10,10 @@ MyUninstall.exe
 
 具体文件介绍：
 
-Hourong.txt - 火绒下载地址
+Hourong.txt——火绒下载地址
 
-MyUninstall.exe - 强力卸载工具
+MyUninstall.exe——强力卸载工具
+
 --------------------
 
 There are two files after downloading:
@@ -26,3 +27,4 @@ Specific documents:
 Hourong.txt  - Download address of tinder
 
 MyUninstall.exe  - Powerful unloading tool
+
