@@ -5,15 +5,11 @@
 
 ## 报错情况
 
-PowerShell报错：禁止运行的策略
+PowerShell报错：......禁止运行......
 
-运行如下命令：
+管理员PowerShell运行如下命令：
 
-powershell set-executionpolicy remotesigned
-
-然后运行：
-
-powershell Get-File.ps1
+set-executionpolicy remotesigned
 
 即可
 
