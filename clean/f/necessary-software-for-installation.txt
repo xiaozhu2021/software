@@ -1,0 +1,105 @@
+----------------------------------------------------------------------------------------------------
+常用聊天软件：
+QQ：https://down.qq.com/qqweb/PCQQ/PCQQ_EXE/PCQQ2020.exe
+TIM：http://dldir1.qq.com/qqfile/qq/TIM3.0.0/TIM3.0.0.21315.exe
+Wechat：https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe
+
+----------------------------------------------------------------------------------------------------
+任务栏常驻软件
+
+1.Chrome
+使用频次最高，没有之一
+2.Tim
+干干净净的聊天
+3.网易云音乐
+UWP版，最好的音乐播放器，没有之一
+4.百度云管家
+讨厌至极却又离不开
+5.Snipaste
+目前用过的最舒服的截图工具
+6.CCleaner
+系统优化工具
+清理工具
+7.MyUninstall
+卸载工具
+
+------------------------------------------------------------------------------------------------------
+开机自启
+
+1.WGestures
+鼠标手势
+2.Listary
+搜索工具
+Listary Pro 5.00 Build 2581 中文免费版 文件浏览增强工具
+
+3.划掉，政治敏感
+你懂的
+
+4.火绒
+安全中心
+
+5.Seer
+文件预览
+用的不多
+----------------------------------------------------------------------------------------------------
+开始菜单
+
+1.office套装
+
+2.哔哩哔哩动画UWP版
+bilibili投稿工具
+
+3.知乎UWP版
+
+4.微博UWP版
+很少用，还是网页版用的多一些
+5.Adobe全家桶
+ps
+只会用魔棒抠图。。。尴尬
+Adobe Photoshop CC 2017 v18.0 + x64 中文免费版 顶级图像处理软件
+pr
+这个可以厚着脸皮说会一奈奈。。。
+Adobe Premiere Pro CC 2017 v11.0.2 中文多语免费版 视频编辑工具
+ae
+还没学会，再次尴尬。。。
+Adobe After Effects CC 2017 v14.1.0 中文免费版 仅支持 64 位系统
+6.steam
+不玩游戏，只是买了个Wallpaper Engine
+7.Apowersoft Video Converter Studio
+格式转换，感觉界面比格式工厂好一点，具体优劣分辨不出来
+万能视频转换器 Apowersoft Video Converter Studio 4.6.0 中文多语免费版
+8.Autodesk Inventor Professional 2017
+暴露专业。。。
+9.Potplayer
+配上Zune皮肤，无敌的播放器
+https://potplayer.daum.net/
+10.ACG播放器
+精品UWP视频播放器，搞特价时花九块大洋去了广告，赏心悦目
+11.Bandizip
+解压工具，界面美的一匹
+Download Free Zip Archiver to open ZIP, RAR, 7z files
+12.Bandicam
+屏幕录制
+韩国高清游戏录制工具 Bandicam 3.3.3.1209 中文多语免费版
+
+----------------------------------------------------------------------------------------------------
+百度拼音输入法：https://speedxbu.baidu.com/shurufa/ime/setup/BaiduPinyinSetup_5.5.5063.0.exe
+手写输入：https://speedxbu.baidu.com/shurufa/handinput/HandInputSetup_1.0.0.138.exe
+语音输入：https://speedxbu.baidu.com/shurufa/SpeechInputSetup-1_0_0_75.exe
+截图工具：https://speedxbu.baidu.com/shurufa/others/ScreenshotSetup-2_0_0_190.exe
+【为什么不是搜狗输入法呢？因为Ta是一款“病毒型输入法”】
+
+----------------------------------------------------------------------------------------------------
+安全软件
+火绒：https://www.huorong.cn/downloadfullv5.html?1563359375
+【360 和火绒 两者可以一起安装，也可以只安装其中一种】
+
+
+----------------------------------------------------------------------------------------------------
+小工具
+CleanTool：https://github.com/xiaozhu2021/software/tree/master/clean
+【该项目开源，直接下载最新版即可】
+OfficeTool Plus：https://otp.landian.vip/zh-cn/
+直接下载地址：https://download.coolhub.top/Office-Tool-v7.6.zip
+【该项目开源，直接下载最新版即可】
+
