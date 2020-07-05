@@ -1,0 +1,46 @@
+{
+    "setting": {
+        "block": [
+            {
+                "title": "菜单",
+                "id": "meau",
+                "custom": "菜单"
+            },
+            {
+                "title": "————",
+                "id": "00",
+                "custom": "————"
+            },
+            {
+                "title": "开启",
+                "id": "01",
+                "custom": "开启新闻"
+            },
+            {
+                "title": "关闭",
+                "id": "02",
+                "custom": "关闭新闻"
+            },
+            {
+                "title": "高级",
+                "id": "03",
+                "custom": "高级模式"
+            },
+            {
+                "title": "设置",
+                "id": "04",
+                "custom": "设置"
+            },
+            {
+                "title": "自定义1",
+                "id": "custom01",
+                "custom": ""
+            },
+            {
+                "title": "——免费新闻机器人——",
+                "id": "footer",
+                "custom": "——免费新闻机器人——"
+            }
+        ]
+    }
+}
