@@ -13,9 +13,40 @@ a:visited {color:#9013fe;} /* 已访问链接 */
 a:hover {color:#ff0000;}  /* 鼠标移动到链接上 */
 a:active {color:#0000FF;} /* 鼠标点击时 */
 body {background-color:#ffffff;}
+/* -----------------------------------------------------------------------*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #4CAF50;
+}	
 </style>
 </head>
 <body>
+<ul>
+  <li><a class="active" href="/">主页</a></li>
+  <li><a href="#">新闻</a></li>
+  <li><a href="#">联系</a></li>
+  <li><a href="#">关于</a></li>
+</ul>
+	
 <a href="setting.xml">下载设置文件XML</a>
 <br />
 <a href="setting.json">下载设置文件JSON</a>
