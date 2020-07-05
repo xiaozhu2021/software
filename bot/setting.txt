@@ -1,0 +1,7 @@
+#lines or following the name denoted by a '#' symbol.
+meau=菜单
+01=开启
+02=关闭
+03=高级
+04=设置
+footer=——免费新闻机器人——
