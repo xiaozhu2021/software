@@ -8,6 +8,7 @@
 {
 	color:#000000;
 } 
+
 .links
 {
 a:link {color:#000000;}    /* 未访问链接*/
@@ -17,6 +18,8 @@ a:active {color:#0000FF;} /* 鼠标点击时 */
 }
 body {background-color:#ffffff;}
 /* -----------------------------------------------------------------------*/
+.meau
+{
 ul {
     list-style-type: none;
     margin: 0;
@@ -39,20 +42,22 @@ li a {
 
 li a:hover {
     background-color: #4CAF50;
-}	
+}
+}
 </style>
 </head>
 <body>
-<ul>
+<ul class="meau">
   <li><a class="active" href="/">主页</a></li>
-  <li><a href="#">新闻</a></li>
+  <li><a href="https://xiaozhu2007.github.io/news/">新闻</a></li>
   <li><a href="#">联系</a></li>
   <li><a href="#">关于</a></li>
 </ul>
-	
-<a href="setting.xml" class="links">下载设置文件XML</a>
+<p class="links">
+<a href="setting.xml">下载设置文件XML</a>
 <br />
-<a href="setting.json" class="links">下载设置文件JSON</a>
+<a href="setting.json">下载设置文件JSON</a>
+</p>
   <p id="tips">如有必要，请在跳转后的页面按Ctrl+S 保存！</p>
   <p id="tips">改完后请私发甜力怕（2530665121）</p>
 </body>
